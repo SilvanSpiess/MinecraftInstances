@@ -1,0 +1,636 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\empty_map.litematic",
+        "name": "Unnamed",
+        "origin": [
+          228,
+          80,
+          -1578
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                129,
+                1,
+                130
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\barneys ship.litematic",
+        "name": "barnis ship",
+        "origin": [
+          -484,
+          58,
+          -1385
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                22,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\Barnis schiff.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -484,
+          63,
+          -1385
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                22,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\A_Wall_left.litematic",
+        "name": "right 1",
+        "origin": [
+          -353,
+          78,
+          -1200
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                13,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\A_Wall_right.litematic",
+        "name": "left 1",
+        "origin": [
+          -278,
+          87,
+          -1189
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                15
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\elevator 1.20.1.litematic",
+        "name": "elevator new",
+        "origin": [
+          -256,
+          66,
+          -1129
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 32052,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                10
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\Wall_complete.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -391,
+          78,
+          -1200
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": true,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16041984,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\Wall_complete 8x7.litematic",
+        "name": "Wall 7x8",
+        "origin": [
+          -241,
+          78,
+          -1200
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 21386,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                36,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\silsp\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1(1)\\.minecraft\\schematics\\monmument V1.litematic",
+        "name": "monument v1",
+        "origin": [
+          -983,
+          28,
+          -1976
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16743004,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                110,
+                25,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\silsp\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1(1)\\.minecraft\\schematics\\bedrock_shop.litematic",
+        "name": "bedrock_shop",
+        "origin": [
+          -51,
+          63,
+          -312
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\silsp\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1(1)\\.minecraft\\schematics\\water remover.litematic",
+        "name": "drainer",
+        "origin": [
+          -899,
+          75,
+          -1886
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 5453690,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                9,
+                6,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\silsp\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1(1)\\.minecraft\\schematics\\finalMonument.litematic",
+        "name": "monument",
+        "origin": [
+          -873,
+          29,
+          -1976
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16748032,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                45,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\silsp\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1(1)\\.minecraft\\schematics\\finalMonument.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -316,
+          150,
+          -1134
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8482918,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                45,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\silsp\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1(1)\\.minecraft\\schematics\\guardian farm collection.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -308,
+          177,
+          -1126
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8329229,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 13,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "SINGLE_LAYER",
+    "axis": "y",
+    "layer_single": 88,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -414,
+          233,
+          -1299
+        ],
+        "pos2": [
+          -414,
+          233,
+          -1299
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

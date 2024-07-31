@@ -1,0 +1,15 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:gui.xaero_deathpoint_old:D:-527:-3:408:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:Frog Spawn Bog:F:8302:77:-377:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mobhead farm:M:-1130:63:-1928:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:triple spider farm:T:2834:87:-1818:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Trident Farm:T:3911:66:-543:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:triple spider farm:T:2834:87:-1818:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Raid farm:R:-1119:65:-2111:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Guardian farm:G:-932:63:-1916:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Venator:V:-334:78:-1107:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Spawn:S:-20:125:-3:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Leonne's House:L:502:83:-874:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Huge cave with coral reef:H:-1839:71:-259:6:false:0:gui.xaero_default:false:0:0:false

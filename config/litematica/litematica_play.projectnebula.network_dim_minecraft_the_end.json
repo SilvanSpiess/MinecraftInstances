@@ -1,0 +1,259 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\empty_map5.litematic",
+        "name": "Empty Map",
+        "origin": [
+          -961,
+          60,
+          -450
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_MISSING",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                129,
+                1,
+                130
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\short course.litematic",
+        "name": "short course",
+        "origin": [
+          -960,
+          62,
+          -448
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 8482918,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                127
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\medium course.litematic",
+        "name": "medium course",
+        "origin": [
+          -960,
+          62,
+          -448
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 21386,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                127
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\long course.litematic",
+        "name": "long course",
+        "origin": [
+          -960,
+          62,
+          -448
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                127
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\bedrock_breaker.litematic",
+        "name": "bedrock breaker",
+        "origin": [
+          -832,
+          56,
+          64
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                127
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 4,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 76,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          0,
+          0,
+          0
+        ],
+        "pos2": [
+          0,
+          0,
+          0
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

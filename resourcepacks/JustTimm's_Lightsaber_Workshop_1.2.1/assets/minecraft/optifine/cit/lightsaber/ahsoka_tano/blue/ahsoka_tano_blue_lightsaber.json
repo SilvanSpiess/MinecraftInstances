@@ -1,0 +1,8 @@
+{
+  "credit": "JustTimm's Lightsaber Workshop Resource Pack by JustTimm - https://linktr.ee/JustTimm",
+  "parent": "optifine/cit/lightsaber/ahsoka_tano/green/ahsoka_tano_green_lightsaber",
+  "textures": {
+    "layer0": "optifine/cit/lightsaber/ahsoka_tano/green/ahsoka_tano_green_lightsabers",
+	"layer1": "optifine/cit/lightsaber/blade/blue"
+  }
+}

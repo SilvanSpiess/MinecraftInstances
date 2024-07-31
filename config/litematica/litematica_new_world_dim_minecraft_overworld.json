@@ -1,0 +1,390 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\mapart(1).nbt",
+        "name": "mapart(1) (Converted Structure)",
+        "origin": [
+          -145,
+          116,
+          471
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 11741265,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "mapart(1) (Converted Structure)",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "mapart(1) (Converted Structure)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\short_course.nbt",
+        "name": "short_course (Converted Structure)",
+        "origin": [
+          -1,
+          124,
+          529
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 13541986,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "short_course (Converted Structure)",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "short_course (Converted Structure)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\medium_course.nbt",
+        "name": "medium_course (Converted Structure)",
+        "origin": [
+          -39,
+          138,
+          710
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 32052,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "medium_course (Converted Structure)",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "medium_course (Converted Structure)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\long_course.nbt",
+        "name": "long_course (Converted Structure)",
+        "origin": [
+          -175,
+          145,
+          792
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "long_course (Converted Structure)",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "long_course (Converted Structure)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\barneys ship.litematic",
+        "name": "barnis ship",
+        "origin": [
+          -83,
+          117,
+          705
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                22,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\Wall_corner.litematic",
+        "name": "wall corner",
+        "origin": [
+          -511,
+          202,
+          923
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 5453690,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                14,
+                0,
+                14
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\Wall_straight.litematic",
+        "name": "wall straight",
+        "origin": [
+          -525,
+          202,
+          894
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16748032,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\Wall_complete.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -375,
+          264,
+          923
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "D:\\Download\\MultiMC\\instances\\1.20.1\\.minecraft\\schematics\\BedrockBreaker.nbt",
+        "name": "BedrockBreaker (Converted Structure)",
+        "origin": [
+          -320,
+          116,
+          447
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "BedrockBreaker (Converted Structure)",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "BedrockBreaker (Converted Structure)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 8,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -320,
+          117,
+          575
+        ],
+        "pos2": [
+          -193,
+          118,
+          448
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

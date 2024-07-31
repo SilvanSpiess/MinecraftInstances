@@ -1,0 +1,42 @@
+{
+  "general": {
+    "displayTooltip": true,
+    "shiftForDetails": true,
+    "hideShiftText": false,
+    "displayMode": "HOLD_KEY",
+    "hideFromPlayerList": false,
+    "hideFromDebug": false,
+    "enableTextToSpeech": false,
+    "rateLimit": 1000
+  },
+  "overlay": {
+    "position": {
+      "align": {
+        "x": "RIGHT",
+        "y": "TOP"
+      },
+      "anchor": {
+        "x": "RIGHT",
+        "y": "TOP"
+      },
+      "x": 0,
+      "y": 0,
+      "bossBarsOverlap": false
+    },
+    "color": {
+      "backgroundAlpha": 204,
+      "themes": [],
+      "activeTheme": "waila:vanilla"
+    },
+    "scale": 1.0,
+    "fps": 30
+  },
+  "formatter": {
+    "modName": "§9§o%s",
+    "blockName": "§f%s",
+    "fluidName": "§f%s",
+    "entityName": "§f%s",
+    "registryName": "§8%s"
+  },
+  "configVersion": 1
+}

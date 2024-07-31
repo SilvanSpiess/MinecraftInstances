@@ -1,0 +1,18 @@
+#Wed Jul 03 22:42:24 CEST 2024
+ambient_brightness=3.0
+AmbientLight_R=1.0
+SCREENSPACE_CONTACT_SHADOWS=false
+ambientOcclusionLevel=0.5
+Max_Filter_Depth=105.0
+reflection_quality=6.0
+sun_illuminance=50000.0
+TONEMAP=Tonemap_Lottes
+RENDER_ENTITY_SHADOWS=false
+shadowMapResolution=1024
+AmbientLight_G=0.46
+AmbientLight_B=0.8
+COLOR_CURVE=true
+Max_Shadow_Filter_Radius=116.0
+MIN_LIGHT_AMOUNT=10.0
+ambient_temp=2000
+WAVY_PLANTS=false

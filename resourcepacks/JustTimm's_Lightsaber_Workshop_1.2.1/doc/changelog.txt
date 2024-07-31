@@ -1,0 +1,60 @@
++   UPDATE [1.2.1]
+    By: JustTimm
+
+Changes
+- The "Skywalker Lightsaber" name has been removed. It can now be named "Anakin Skywalker's Lightsaber (Episode III)", "Luke Skywalker's Lightsaber (Blue)" and "Rey's Lightsaber (Blue)".
+- "Skywalker Lightsaber (Reforged)" is now called "Rey's Lightsaber (Reforged)".
+- "Luke Skywalker's Lightsaber" is now called "Luke Skywalker's Lightsaber (Green)".
+
+--------------------------------------------------------------------------------
++   UPDATE [1.2]
+    By: JustTimm
+
+Additions
+- Ahsoka Tano's Lightsaber (White)
+- Ahsoka Tano's Shoto Lightsaber (White)
+
+Fixes
+- Fixed an issue where the Cal Kestis' Survivor Lightsaber wasn't positioned right in an Item Frame.
+
+--------------------------------------------------------------------------------
++   UPDATE [1.1.1]
+    By: JustTimm
+
+Version
+- Updated to 1.20.1
+
+--------------------------------------------------------------------------------
++   UPDATE [1.1]
+    By: JustTimm
+
+Additions
+- Cal Kestis' Lightsaber (Survivor)
+- (Cal Kestis' / Jaro Tapal's) Lightsaber
+
+--------------------------------------------------------------------------------
++   UPDATE [1.0.1]
+    By: JustTimm
+
+Version
+- Updated to 1.19.4
+
+Changes
+- Changed some things in the background so that the pack has less models and performs better.
+
+--------------------------------------------------------------------------------
++   UPDATE [1.0]
+    By: JustTimm
+
+Additions
+- Skywalker Lightsaber
+- Skywalker Lightsaber (Reforged)
+- Darth Maul's Lightsaber (Episode I)
+- Darth Maul's Lightsaber (Single Blade)
+- Luke Skywalker's Lightsaber
+- Obi-Wan Kenobi's Lightsaber
+- Dark Saber
+- Count Dooku's Lightsaber
+- Ahsoka Tano's Lightsaber (Green/Blue)
+- Ahsoka Tano's Shoto Lightsaber (Green/Blue)
+- Darth Vader's Lightsaber

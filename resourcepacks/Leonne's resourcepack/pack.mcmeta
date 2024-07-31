@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "pack_format": 26,
+        "description": [
+        {"text":"Extra "},{"text":"vibrant","color":"gold"},
+        {"text":"\nBy: CodingLonne","color":"blue"}
+       ]
+    }
+}

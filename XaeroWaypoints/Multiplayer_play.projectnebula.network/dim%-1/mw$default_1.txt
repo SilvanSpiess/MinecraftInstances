@@ -1,0 +1,17 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:gui.xaero_deathpoint_old:D:-5985:10:13:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:bedrock brekaiong cade:M:1399:128:-804:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:piglinbrute:F:-596:82:-1639:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Virts portal:V:285:128:-423:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint_old:D:82:12:-2018:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:Frogspawn Bog Portal!:F:1040:129:-51:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:triple spider spawner:T:358:130:-219:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gold Farm:G:-1102:73:-432:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:trident farm nether:T:488:~:-72:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Venator portal:V:-51:63:-164:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Leonnes base:L:63:31:-111:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Dahl's Portal Roof:D:-140:~:-210:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:double blaze spawner:D:447:67:-445:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:rückweg:R:2:92:-158:11:false:0:gui.xaero_default:false:0:0:false

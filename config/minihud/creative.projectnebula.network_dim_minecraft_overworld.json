@@ -1,0 +1,70 @@
+{
+  "data_storage": {
+    "distance_pos": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "shapes": {
+    "shapes": [
+      {
+        "type": "circle",
+        "color": 1613803696,
+        "enabled": false,
+        "display_name": "Circle / Cylinder",
+        "render_type": "full_block",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          6443.0,
+          43.0,
+          7605.5
+        ],
+        "main_axis": "UP",
+        "radius": 57.0,
+        "height": 1
+      },
+      {
+        "type": "circle",
+        "color": 1613803696,
+        "enabled": false,
+        "display_name": "Circle / Cylinder",
+        "render_type": "full_block",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          6235.5,
+          5.0,
+          7432.5
+        ],
+        "main_axis": "UP",
+        "radius": 53.0,
+        "height": 1
+      }
+    ],
+    "selected": 0
+  }
+}

@@ -1,0 +1,108 @@
+debug = false
+disable_crowdin = false
+check_for_updates = true
+
+[[key_bindings]]
+keys = []
+name = "key.plasmovoice.general.mute_microphone"
+any_context = false
+category = "key.plasmovoice.general"
+
+
+
+[voice]
+disabled = false
+microphone_disabled = true
+activation_threshold = -43.0
+input_device = ""
+output_device = ""
+use_javax_input = false
+microphone_volume = 1.0
+noise_suppression = false
+volume = 1.0
+compressor_limiter = true
+sound_occlusion = false
+directional_sources = false
+hrtf = false
+stereo_capture = false
+
+[voice.volumes.source_18c55655-9876-4c37-b904-2bd9c7de826a]
+volume = 1.0
+[voice.volumes.source_7f88fbfa-b866-4061-9a97-67f539e923aa]
+volume = 1.0
+[voice.volumes.source_058a7acd-8e27-4900-b371-52fc9d765311]
+volume = 1.0
+[voice.volumes.source_2e372560-d0d4-4416-9e6e-1fe130887505]
+volume = 1.0
+[voice.volumes.source_0873e0cb-94af-4e67-8b0c-cb2bfcc00bd4]
+volume = 1.0
+[voice.volumes.source_05721c73-3983-491f-8665-4e1d9ffb09df]
+volume = 1.0
+[voice.volumes.source_a0df039a-2de7-4369-b652-caae05b6d186]
+volume = 1.0
+[voice.volumes.source_a2b737b5-3911-40b5-88dd-ab811e73f45a]
+volume = 1.0
+[voice.volumes.source_f8c5987e-4db3-4829-a435-51b23dd54607]
+volume = 1.0
+[voice.volumes.source_50c78ce0-0462-4610-bd6b-2366d656f021]
+volume = 1.0
+[voice.volumes.source_075904a6-6a2a-4fb6-882f-dd557f4896d4]
+volume = 1.0
+[voice.volumes.source_f0fc7e96-83be-4bfe-9517-0ad5f2c04ae8]
+volume = 1.0
+[voice.volumes.source_a2ff00cf-667a-4fe7-9e90-e0d59168ce20]
+volume = 1.0
+[voice.volumes.source_f77b4e54-1b9e-479e-ac53-f03c0cc86377]
+volume = 1.0
+[voice.volumes.source_ae46a1b5-5ce5-49f7-ab0d-32c4003b0e69]
+volume = 1.0
+[voice.volumes.source_1684ee07-488a-47b7-9b4d-dce7c165ea7e]
+volume = 1.0
+[voice.volumes.source_899ee0ab-751a-4bef-8a35-b15fe2e9def9]
+volume = 1.0
+[voice.volumes.source_715666ca-f5e8-45ba-9551-4d93885fddb5]
+volume = 1.0
+[voice.volumes.source_7164b80b-57c2-4d41-b714-32acc3b48b54]
+volume = 1.0
+[voice.volumes.source_a13b6f72-96e7-4a57-ae70-eceaf2075dbd]
+volume = 1.0
+[voice.volumes.source_c8a222b2-bdcd-449b-a1b3-c48b4e026df4]
+volume = 1.0
+[voice.volumes.proximity]
+volume = 1.0
+[voice.volumes.source_b5392506-9eb5-49da-ab23-9031ba2c336f]
+volume = 1.0
+[voice.volumes.source_c97efe5d-9999-4628-9b8b-34567a5b9570]
+volume = 1.0
+[voice.volumes.source_4f9d8599-56c6-4f5e-97c7-b348d06383b9]
+volume = 1.0
+[voice.volumes.source_c2b0833e-f88a-4019-95b1-20d150d584ae]
+volume = 1.0
+[voice.volumes.source_d80a6646-50fb-4195-94e7-2a854b4c2054]
+volume = 1.0
+[voice.volumes.source_497f031c-110c-4c7e-9cd2-6f92521400a9]
+volume = 1.0
+
+[advanced]
+visualize_voice_distance = true
+visualize_voice_distance_on_join = false
+compressor_threshold = -10
+limiter_threshold = -6
+directional_sources_angle = 145
+stereo_sources_to_mono = false
+panning = true
+camera_sound_listener = true
+exponential_volume_slider = true
+exponential_distance_gain = true
+
+[overlay]
+show_activation_icon = true
+activation_icon_position = "BOTTOM_CENTER"
+show_source_icons = 0
+show_static_source_icons = true
+overlay_enabled = true
+overlay_position = "TOP_LEFT"
+overlay_style = "NAME_SKIN"
+
+[overlay.source_states]
+proximity = "OFF"

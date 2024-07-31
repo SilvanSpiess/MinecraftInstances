@@ -1,0 +1,5 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
+#
+waypoint:Elevator :E:-331:4:-202:11:false:0:gui.xaero_default:false:0:false
+waypoint:TH and Sorter:T:-561:4:-724:4:false:0:gui.xaero_default:false:0:false
